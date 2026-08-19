@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+BR+Guides&family=Playwrite+DE+LA+Guides&display=swap');
 :root{
     --mauve: #caa8f5ff;
     --soft-periwinkle: #9984d4ff;
     --indigo-velvet: #592e83ff;
     --midnight-violet: #230c33ff; 
+    --texto:font-family: "Playwrite BR Guides", cursive;
+    --titulo:font-family: "Playwrite DE LA Guides", cursive;
 }
